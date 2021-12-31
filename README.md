@@ -22,7 +22,9 @@ Framework desenvolvido para trabalhar com as linguagens C#, VB.NET e F#.
 
 Utilizada no desafio, a referência Environment.NewLine tem a função de: definir uma linha de cordas para um ambiente.
 
-[Método GetValues](https://docs.microsoft.com/pt-br/dotnet/api/microsoft.visualstudio.workspace.propertysettingshelper.getvalues?view=visualstudiosdk-2022)
+[Método GetValues](https://docs.microsoft.com/pt-br/dotnet/api/system.enum.getvalues?view=net-6.0)
+
+Utilizado no desafio, o método GetValues tem a função de: 
 
 
 
