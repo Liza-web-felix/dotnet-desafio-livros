@@ -1,0 +1,13 @@
+C:\Users\Usuário\Desktop\DIO.Livros\bin\Debug\netcoreapp3.1\DIO.Livros.exe
+C:\Users\Usuário\Desktop\DIO.Livros\bin\Debug\netcoreapp3.1\DIO.Livros.deps.json
+C:\Users\Usuário\Desktop\DIO.Livros\bin\Debug\netcoreapp3.1\DIO.Livros.runtimeconfig.json
+C:\Users\Usuário\Desktop\DIO.Livros\bin\Debug\netcoreapp3.1\DIO.Livros.runtimeconfig.dev.json
+C:\Users\Usuário\Desktop\DIO.Livros\bin\Debug\netcoreapp3.1\DIO.Livros.dll
+C:\Users\Usuário\Desktop\DIO.Livros\bin\Debug\netcoreapp3.1\DIO.Livros.pdb
+C:\Users\Usuário\Desktop\DIO.Livros\obj\Debug\netcoreapp3.1\DIO.Livros.csprojAssemblyReference.cache
+C:\Users\Usuário\Desktop\DIO.Livros\obj\Debug\netcoreapp3.1\DIO.Livros.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\DIO.Livros\obj\Debug\netcoreapp3.1\DIO.Livros.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\DIO.Livros\obj\Debug\netcoreapp3.1\DIO.Livros.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\DIO.Livros\obj\Debug\netcoreapp3.1\DIO.Livros.dll
+C:\Users\Usuário\Desktop\DIO.Livros\obj\Debug\netcoreapp3.1\DIO.Livros.pdb
+C:\Users\Usuário\Desktop\DIO.Livros\obj\Debug\netcoreapp3.1\DIO.Livros.genruntimeconfig.cache
