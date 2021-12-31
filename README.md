@@ -24,7 +24,7 @@ Utilizada no desafio, a referência Environment.NewLine tem a função de: defin
 
 [Método GetValues](https://docs.microsoft.com/pt-br/dotnet/api/system.enum.getvalues?view=net-6.0)
 
-Utilizado no desafio, o método GetValues tem a função de: 
+Utilizado no desafio, o método GetValues tem a função de: recuperar uma matriz de valores de constantes em uma enumeração especificada.
 
 
 
